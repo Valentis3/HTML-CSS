@@ -1,0 +1,22 @@
+.container {
+    font-family: serif;
+    font-size: 20px;
+    line-height: 1.8em;
+    color: #555;
+    
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-size: 2.5em;
+    color: brown;
+    font-weight: normal;
+}
+
+cite {
+    background: #eee;
+    font-style: italic;
+    color: #777;
+    
+}    
